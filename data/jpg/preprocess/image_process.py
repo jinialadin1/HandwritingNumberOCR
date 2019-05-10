@@ -18,7 +18,7 @@ def FindCorner(data_path):
         for x in range(350,450):
             comp1=pixels[y][x]
             comp2=pixels[y][x+1]
-            comp3=pixels[y][x+2]
+            comp3=pixels[y+1][x+1]
             if(comp1!=255 and comp2!=255 and comp3!=255):
                 count=0
                 for i in range(0,20):
