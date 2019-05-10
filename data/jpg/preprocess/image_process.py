@@ -28,4 +28,3 @@ def FindCorner(data_path):
                     start.append([x,y])
                     break
     return start[0]
-
