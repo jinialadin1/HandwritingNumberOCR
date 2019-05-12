@@ -9,6 +9,8 @@ There are three different kinds of data
 2. [NIST dataset](https://www.nist.gov/srd/nist-special-database-19)
 3. [CHROME handwritten dataset v2](http://www.iapr-tc11.org/mediawiki/index.php?title=CROHME:_Competition_on_Recognition_of_Online_Handwritten_Mathematical_Expressions)
 
+I used [converter](https://github.com/gskielian/JPG-PNG-to-MNIST-NN-Format) to convert PNG to MNIST
+
 ## Program Structure
 Proces of recognition is divided into 4 steps. The initial input is a photo of page with text.
 
