@@ -6,7 +6,7 @@ Using python, tensorflow, openCV.
 ## Learning Data
 There are three different kinds of data
 1. real scan data from my friends (10 times per number, total 63 people's handwriting)
-2. [NIST dataset](https://www.nist.gov/srd/nist-special-database-19)
+2. [NCIST dataset](https://www.nist.gov/srd/nist-special-database-19)
 3. [CHROME handwritten dataset v2](http://www.iapr-tc11.org/mediawiki/index.php?title=CROHME:_Competition_on_Recognition_of_Online_Handwritten_Mathematical_Expressions)
 
 I used [converter](https://github.com/gskielian/JPG-PNG-to-MNIST-NN-Format) to convert PNG to MNIST
